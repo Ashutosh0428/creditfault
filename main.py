@@ -7,7 +7,7 @@ from TrainingModel import trainModel
 from training_Validation_Insertion import train_validation
 #import flask_monitoringdashboard as dashboard
 from predictfrommodel import prediction
-
+from wsgiref import simple_server
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
 
