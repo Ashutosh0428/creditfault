@@ -6,7 +6,7 @@ Prediction_Raw_Data_Validation
 Training_Raw_data_validation
 application_logger
 best_model_finder
-data
 data_ingestion
 data_preprocessing
 file_operation
+tests
