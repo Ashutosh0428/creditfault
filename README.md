@@ -230,10 +230,10 @@ git push
 
 
 
-### deployment link:-\
+### deployment link:-
 
 
-     ##heroku :- https://creditcard-fault-detection.herokuapp.com/
+     ####heroku :- https://creditcard-fault-detection.herokuapp.com/
      
      
-     ##AWS:- http://35.154.180.26:5000/
+     ####AWS:- http://35.154.180.26:5000/
